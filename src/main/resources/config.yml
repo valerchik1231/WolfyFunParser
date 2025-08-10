@@ -1,0 +1,9 @@
+max-k-count: 4
+
+commands:
+  - "/pay $arg" # /pay ник AMOUNT
+  - "/ah sell" # /ah sell AMOUNT
+  - "/win invest"
+  - "/win withdraw"
+  - "/clan invest"
+  - "/clan withdraw"

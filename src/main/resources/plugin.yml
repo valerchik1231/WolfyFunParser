@@ -1,0 +1,8 @@
+name: WolfyFunParser
+version: '${project.version}'
+main: ru.valerchik.wolfyfunparser.WolfyFunParser
+api-version: '1.16'
+authors: [valerchik123]
+
+commands:
+  wolfyfunparser: {}
